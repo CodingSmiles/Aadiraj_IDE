@@ -1,3 +1,3 @@
 # Aadiraj "IDE"
 
-It's not an IDE, IDE sounds look. More appropriately it's a text editor.
+Stupidly pathetic text editor that can be installed using the exe installer in the "setup" folder. After installing it's pretty simple to use, just a little text editor for many text types
