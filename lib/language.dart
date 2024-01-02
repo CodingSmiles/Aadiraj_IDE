@@ -67,7 +67,7 @@ class _LanguagesState extends State<Languages> {
         controller: codeScroll,
         child: CodeTheme(
           key: widget.key,
-          data: CodeThemeData(styles: theme),
+          data: const CodeThemeData(styles: atomOneDarkTheme),
           child: Padding(
             padding: const EdgeInsets.only(
               left: 12.0,
